@@ -1,8 +1,4 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
-group = 'xpay.dev'
-version = '1.0'
-
 android {
     compileSdkVersion 29
     buildToolsVersion "30.0.0"
