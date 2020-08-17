@@ -1,0 +1,3 @@
+rootProject.name='XpayUtils'
+include ':app'
+include ':xpayutils'
